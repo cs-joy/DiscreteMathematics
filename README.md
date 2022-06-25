@@ -63,6 +63,12 @@ Combinatorics studies the way in which discrete structures can be combined or ar
 ### Graph theory
 Main article: [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
 
+Graph theory, the study of graphs and networks, is often considered part of combinatorics, but has grown large enough and distinct enough, with its own kind of problems, to be regarded as a subject in its own right. Graphs are one of the prime objects of study in discrete mathematics. They are among the most ubiquitous models of both natural and human-made structures. They can model many types of relations and process dynamics in physical, biological and social systems. In computer science, they can represent networks of communication, data organization, computational devices, the flow of computation, etc. In mathematics, they are useful in geometry and certain parts of topology, e.g. knot theory. Algebraic graph theory has close links with group theory and topological graph theory has close links to topology. There are also continuous graphs; however, for the most part, research in graph theory falls within the domain of discrete mathematics.
+
+### Number theory
+Main article: [Number theory](https://en.wikipedia.org/wiki/Number_theory)
+
+Number theory is concerned with the properties of numbers in general, particularly integers. It has applications to cryptography and cryptanalysis, particularly with regard to modular arithmetic, diophantine equations, linear and quadratic congruences, prime numbers and primality testing. Other discrete aspects of number theory include geometry of numbers. In analytic number theory, techniques from continuous mathematics are also used. Topics that go beyond discrete objects include transcendental numbers, diophantine approximation, p-adic analysis and function fields.
 
 
 
