@@ -13,3 +13,7 @@ Although the main objects of study in discrete mathematics are discrete objects,
 In university curricula, "Discrete Mathematics" appeared in the 1980s, initially as a computer science support course; its contents were somewhat haphazard at the time. The curriculum has thereafter developed in conjunction with efforts by ACM and MAA into a course that is basically intended to develop mathematical maturity in first-year students; therefore, it is nowadays a prerequisite for mathematics majors in some universities as well. Some high-school-level discrete mathematics textbooks have appeared as well. At this level, discrete mathematics is sometimes seen as a preparatory course, not unlike precalculus in this respect.
 
 The Fulkerson Prize is awarded for outstanding papers in discrete mathematics.
+
+[Permutation](https://en.wikipedia.org/wiki/Permutation)
+[ContinuosFunction](https://en.wikipedia.org/wiki/Continuous_function)
+[Bijection](https://en.wikipedia.org/wiki/Bijection)
