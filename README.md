@@ -75,7 +75,7 @@ Main article: [Abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
 
 Algebraic structures occur as both discrete examples and continuous examples. Discrete algebras include: boolean algebra used in logic gates and programming; relational algebra used in databases; discrete and finite versions of groups, rings and fields are important in algebraic coding theory; discrete semigroups and monoids appear in the theory of formal languages.
 
-###Discrete analogues of continuous mathematics
+### Discrete analogues of continuous mathematics
 
 There are many concepts and theories in continuous mathematics which have discrete versions, such as discrete calculus, discrete Fourier transforms, discrete geometry, discrete logarithms, discrete differential geometry, discrete exterior calculus, discrete Morse theory, discrete optimization, discrete probability theory, discrete probability distribution, difference equations, discrete dynamical systems, and discrete vector measures.
 
