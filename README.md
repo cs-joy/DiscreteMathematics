@@ -1,5 +1,7 @@
 # DiscreteMathematics
 
+![img](https://upload.wikimedia.org/wikipedia/commons/e/e3/SimplexRangeSearching.svg)
+
 Discrete mathematics is the study of mathematical structures that can be considered "discrete" (in a way analogous to discrete variables, having a bijection with the set of natural numbers) rather than "continuous" (analogously to continuous functions). Objects studied in discrete mathematics include integers, graphs, and statements in logic. By contrast, discrete mathematics excludes topics in "continuous mathematics" such as real numbers, calculus or Euclidean geometry. Discrete objects can often be enumerated by integers; more formally, discrete mathematics has been characterized as the branch of mathematics dealing with countable sets (finite sets or sets with the same cardinality as the natural numbers). However, there is no exact definition of the term "discrete mathematics".
 
 The set of objects studied in discrete mathematics can be finite or infinite. The term finite mathematics is sometimes applied to parts of the field of discrete mathematics that deals with finite sets, particularly those areas relevant to business.
