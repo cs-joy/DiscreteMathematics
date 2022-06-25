@@ -87,6 +87,7 @@ The time scale calculus is a unification of the theory of difference equations w
 ### Discrete geometry
 Discrete geometry and combinatorial geometry are about combinatorial properties of discrete collections of geometrical objects. A long-standing topic in discrete geometry is tiling of the plane.
 
+In algebraic geometry, the concept of a curve can be extended to discrete geometries by taking the spectra of polynomial rings over finite fields to be models of the affine spaces over that field, and letting subvarieties or spectra of other rings provide the curves that lie in that space. Although the space in which the curves appear has a finite number of points, the curves are not so much sets of points as analogues of curves in continuous settings. For example, every point of the form {\displaystyle V(x-c)\subset \operatorname {Spec} K[x]=\mathbb {A} ^{1}}V(x-c)\subset \operatorname {Spec} K[x]=\mathbb {A} ^{1} for {\displaystyle K}K a field can be studied either as {\displaystyle \operatorname {Spec} K[x]/(x-c)\cong \operatorname {Spec} K}\operatorname {Spec} K[x]/(x-c)\cong \operatorname {Spec} K, a point, or as the spectrum {\displaystyle \operatorname {Spec} K[x]_{(x-c)}}\operatorname {Spec} K[x]_{(x-c)} of the local ring at (x-c), a point together with a neighborhood around it. Algebraic varieties also have a well-defined notion of tangent space called the Zariski tangent space, making many features of calculus applicable even in finite settings.
 
 
 
