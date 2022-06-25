@@ -39,6 +39,70 @@ Theoretical computer science includes areas of discrete mathematics relevant to 
 ### Information theory
 Main article: [Information theory](https://en.wikipedia.org/wiki/Information_theory)
 
+Information theory involves the quantification of information. Closely related is coding theory which is used to design efficient and reliable data transmission and storage methods. Information theory also includes continuous topics such as: analog signals, analog coding, analog encryption.
+
+### Logic
+Main article: [Mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic)
+
+Logic is the study of the principles of valid reasoning and inference, as well as of consistency, soundness, and completeness. For example, in most systems of logic (but not in intuitionistic logic) Peirce's law (((P→Q)→P)→P) is a theorem. For classical logic, it can be easily verified with a truth table. The study of mathematical proof is particularly important in logic, and has applications to automated theorem proving and formal verification of software.
+
+Logical formulas are discrete structures, as are proofs, which form finite trees or, more generally, directed acyclic graph structures (with each inference step combining one or more premise branches to give a single conclusion). The truth values of logical formulas usually form a finite set, generally restricted to two values: true and false, but logic can also be continuous-valued, e.g., fuzzy logic. Concepts such as infinite proof trees or infinite derivation trees have also been studied,[18] e.g. infinitary logic.
+
+### Set theory
+Main article: [Set theory](https://en.wikipedia.org/wiki/Set_theory)
+
+Set theory is the branch of mathematics that studies sets, which are collections of objects, such as {blue, white, red} or the (infinite) set of all prime numbers. Partially ordered sets and sets with other relations have applications in several areas.
+
+In discrete mathematics, countable sets (including finite sets) are the main focus. The beginning of set theory as a branch of mathematics is usually marked by Georg Cantor's work distinguishing between different kinds of infinite set, motivated by the study of trigonometric series, and further development of the theory of infinite sets is outside the scope of discrete mathematics. Indeed, contemporary work in descriptive set theory makes extensive use of traditional continuous mathematics.
+
+### Combinatorics
+Main article: [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
+
+Combinatorics studies the way in which discrete structures can be combined or arranged. Enumerative combinatorics concentrates on counting the number of certain combinatorial objects - e.g. the twelvefold way provides a unified framework for counting permutations, combinations and partitions. Analytic combinatorics concerns the enumeration (i.e., determining the number) of combinatorial structures using tools from complex analysis and probability theory. In contrast with enumerative combinatorics which uses explicit combinatorial formulae and generating functions to describe the results, analytic combinatorics aims at obtaining asymptotic formulae. Topological combinatorics concerns the use of techniques from topology and algebraic topology/combinatorial topology in combinatorics. Design theory is a study of combinatorial designs, which are collections of subsets with certain intersection properties. Partition theory studies various enumeration and asymptotic problems related to integer partitions, and is closely related to q-series, special functions and orthogonal polynomials. Originally a part of number theory and analysis, partition theory is now considered a part of combinatorics or an independent field. Order theory is the study of partially ordered sets, both finite and infinite.
+
+### Graph theory
+Main article: [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Permutation](https://en.wikipedia.org/wiki/Permutation)
 
 [Continuos Function](https://en.wikipedia.org/wiki/Continuous_function)
