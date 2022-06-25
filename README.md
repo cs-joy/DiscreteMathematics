@@ -15,5 +15,6 @@ In university curricula, "Discrete Mathematics" appeared in the 1980s, initially
 The Fulkerson Prize is awarded for outstanding papers in discrete mathematics.
 
 [Permutation](https://en.wikipedia.org/wiki/Permutation)
-[ContinuosFunction](https://en.wikipedia.org/wiki/Continuous_function)
+[Continuos Function](https://en.wikipedia.org/wiki/Continuous_function)
 [Bijection](https://en.wikipedia.org/wiki/Bijection)
+[Surjective Function](https://en.wikipedia.org/wiki/Surjective_function)
