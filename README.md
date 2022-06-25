@@ -28,6 +28,17 @@ Several fields of discrete mathematics, particularly theoretical computer scienc
 
 Currently, one of the most famous open problems in theoretical computer science is the P = NP problem, which involves the relationship between the complexity classes P and NP. The Clay Mathematics Institute has offered a $1 million USD prize for the first correct proof, along with prizes for six other mathematical problems.
 
+## Topics in discrete mathematics
+See also: [Outline of discrete mathematics](https://en.wikipedia.org/wiki/Outline_of_discrete_mathematics)
+
+## Theoretical computer science
+Main article: [Theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science)
+
+Theoretical computer science includes areas of discrete mathematics relevant to computing. It draws heavily on graph theory and mathematical logic. Included within theoretical computer science is the study of algorithms and data structures. Computability studies what can be computed in principle, and has close ties to logic, while complexity studies the time, space, and other resources taken by computations. Automata theory and formal language theory are closely related to computability. Petri nets and process algebras are used to model computer systems, and methods from discrete mathematics are used in analyzing VLSI electronic circuits. Computational geometry applies algorithms to geometrical problems and representations of geometrical objects, while computer image analysis applies them to representations of images. Theoretical computer science also includes the study of various continuous computational topics.
+
+### Information theory
+Main article: [Information theory](https://en.wikipedia.org/wiki/Information_theory)
+
 [Permutation](https://en.wikipedia.org/wiki/Permutation)
 
 [Continuos Function](https://en.wikipedia.org/wiki/Continuous_function)
