@@ -14,6 +14,20 @@ In university curricula, "Discrete Mathematics" appeared in the 1980s, initially
 
 The Fulkerson Prize is awarded for outstanding papers in discrete mathematics.
 
+## Grand challenges, past and present
+
+The history of discrete mathematics has involved a number of challenging problems which have focused attention within areas of the field. In graph theory, much research was motivated by attempts to prove the four color theorem, first stated in 1852, but not proved until 1976 (by Kenneth Appel and Wolfgang Haken, using substantial computer assistance).
+
+In logic, the second problem on David Hilbert's list of open problems presented in 1900 was to prove that the axioms of arithmetic are consistent. Gödel's second incompleteness theorem, proved in 1931, showed that this was not possible – at least not within arithmetic itself. Hilbert's tenth problem was to determine whether a given polynomial Diophantine equation with integer coefficients has an integer solution. In 1970, Yuri Matiyasevich proved that this could not be done.
+
+The need to break German codes in World War II led to advances in cryptography and theoretical computer science, with the first programmable digital electronic computer being developed at England's Bletchley Park with the guidance of Alan Turing and his seminal work, On Computable Numbers. The Cold War meant that cryptography remained important, with fundamental advances such as public-key cryptography being developed in the following decades. The telecommunication industry has also motivated advances in discrete mathematics, particularly in graph theory and information theory. Formal verification of statements in logic has been necessary for software development of safety-critical systems, and advances in automated theorem proving have been driven by this need.
+
+Computational geometry has been an important part of the computer graphics incorporated into modern video games and computer-aided design tools.
+
+Several fields of discrete mathematics, particularly theoretical computer science, graph theory, and combinatorics, are important in addressing the challenging bioinformatics problems associated with understanding the tree of life.
+
+Currently, one of the most famous open problems in theoretical computer science is the P = NP problem, which involves the relationship between the complexity classes P and NP. The Clay Mathematics Institute has offered a $1 million USD prize for the first correct proof, along with prizes for six other mathematical problems.
+
 [Permutation](https://en.wikipedia.org/wiki/Permutation)
 
 [Continuos Function](https://en.wikipedia.org/wiki/Continuous_function)
