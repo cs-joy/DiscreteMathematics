@@ -79,7 +79,8 @@ Algebraic structures occur as both discrete examples and continuous examples. Di
 
 There are many concepts and theories in continuous mathematics which have discrete versions, such as discrete calculus, discrete Fourier transforms, discrete geometry, discrete logarithms, discrete differential geometry, discrete exterior calculus, discrete Morse theory, discrete optimization, discrete probability theory, discrete probability distribution, difference equations, discrete dynamical systems, and discrete vector measures.
 
-
+### Calculus of finite differences, discrete analysis, and discrete calculus
+In discrete calculus and the calculus of finite differences, a function defined on an interval of the integers is usually called a sequence. A sequence could be a finite sequence from a data source or an infinite sequence from a discrete dynamical system. Such a discrete function could be defined explicitly by a list (if its domain is finite), or by a formula for its general term, or it could be given implicitly by a recurrence relation or difference equation. Difference equations are similar to differential equations, but replace differentiation by taking the difference between adjacent terms; they can be used to approximate differential equations or (more often) studied in their own right. Many questions and methods concerning differential equations have counterparts for difference equations. For instance, where there are integral transforms in harmonic analysis for studying continuous functions or analogue signals, there are discrete transforms for discrete functions or digital signals. As well as discrete metric spaces, there are more general discrete topological spaces, finite metric spaces, finite topological spaces.
 
 
 
