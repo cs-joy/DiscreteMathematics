@@ -120,7 +120,7 @@ In applied mathematics, discrete modelling is the discrete analogue of continuou
 
 
 ## Further reading
-- Norman L. Biggs (2002-12-19). Discrete Mathematics. Oxford University Press. ISBN 978-0-19-850717-8.
+- Norman L. Biggs (2002-12-19). Discrete Mathematics. Oxford University Press. ISBN 978-0-19-850717-8. [source](https://books.google.com.kh/books?id=Mj9gzZMrXDIC&lpg=PP1&pg=PP6#v=onepage&q&f=false) || [frame](<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com.kh/books?id=Mj9gzZMrXDIC&lpg=PP1&pg=PP6&output=embed" width=500 height=500></iframe>)
 - John Dwyer (2010). An Introduction to Discrete Mathematics for Business & Computing. ISBN 978-1-907934-00-1.
 - Susanna S. Epp (2010-08-04). Discrete Mathematics With Applications. Thomson Brooks/Cole. ISBN 978-0-495-39132-6.
 - Ronald Graham, Donald E. Knuth, Oren Patashnik, Concrete Mathematics.
