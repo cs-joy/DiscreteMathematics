@@ -70,6 +70,11 @@ Main article: [Number theory](https://en.wikipedia.org/wiki/Number_theory)
 
 Number theory is concerned with the properties of numbers in general, particularly integers. It has applications to cryptography and cryptanalysis, particularly with regard to modular arithmetic, diophantine equations, linear and quadratic congruences, prime numbers and primality testing. Other discrete aspects of number theory include geometry of numbers. In analytic number theory, techniques from continuous mathematics are also used. Topics that go beyond discrete objects include transcendental numbers, diophantine approximation, p-adic analysis and function fields.
 
+### Algebraic structures
+Main article: [Abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
+
+Algebraic structures occur as both discrete examples and continuous examples. Discrete algebras include: boolean algebra used in logic gates and programming; relational algebra used in databases; discrete and finite versions of groups, rings and fields are important in algebraic coding theory; discrete semigroups and monoids appear in the theory of formal languages.
+
 
 
 
