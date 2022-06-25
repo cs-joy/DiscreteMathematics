@@ -119,15 +119,19 @@ In applied mathematics, discrete modelling is the discrete analogue of continuou
 
 
 
-
-
-
-
-
-[Permutation](https://en.wikipedia.org/wiki/Permutation)
-
-[Continuos Function](https://en.wikipedia.org/wiki/Continuous_function)
-
-[Bijection](https://en.wikipedia.org/wiki/Bijection)
-
-[Surjective Function](https://en.wikipedia.org/wiki/Surjective_function)
+## Further reading
+- Norman L. Biggs (2002-12-19). Discrete Mathematics. Oxford University Press. ISBN 978-0-19-850717-8.
+- John Dwyer (2010). An Introduction to Discrete Mathematics for Business & Computing. ISBN 978-1-907934-00-1.
+- Susanna S. Epp (2010-08-04). Discrete Mathematics With Applications. Thomson Brooks/Cole. ISBN 978-0-495-39132-6.
+- Ronald Graham, Donald E. Knuth, Oren Patashnik, Concrete Mathematics.
+- Ralph P. Grimaldi (2004). Discrete and Combinatorial Mathematics: An Applied Introduction. Addison Wesley. ISBN 978-0-201-72634-3.
+- Donald E. Knuth (2011-03-03). The Art of Computer Programming, Volumes 1-4a Boxed Set. Addison-Wesley Professional. ISBN 978-0-321-75104-1.
+- Jiří Matoušek; Jaroslav Nešetřil (1998). Discrete Mathematics. Oxford University Press. ISBN 978-0-19-850208-1.
+- Obrenic, Bojana (2003-01-29). Practice Problems in Discrete Mathematics. Prentice Hall. ISBN 978-0-13-045803-2.
+- Kenneth H. Rosen; John G. Michaels (2000). Hand Book of Discrete and Combinatorial Mathematics. CRC PressI Llc. ISBN 978-0-8493-0149-0.
+- Kenneth H. Rosen (2007). Discrete Mathematics: And Its Applications. McGraw-Hill College. ISBN 978-0-07-288008-3.
+- Andrew Simpson (2002). Discrete Mathematics by Example. McGraw-Hill Incorporated. ISBN 978-0-07-709840-7.
+- [Permutation](https://en.wikipedia.org/wiki/Permutation)
+- [Continuos Function](https://en.wikipedia.org/wiki/Continuous_function)
+- [Bijection](https://en.wikipedia.org/wiki/Bijection)
+- [Surjective Function](https://en.wikipedia.org/wiki/Surjective_function)
