@@ -84,6 +84,9 @@ In discrete calculus and the calculus of finite differences, a function defined 
 
 The time scale calculus is a unification of the theory of difference equations with that of differential equations, which has applications to fields requiring simultaneous modelling of discrete and continuous data. Another way of modeling such a situation is the notion of hybrid dynamical systems.
 
+### Discrete geometry
+Discrete geometry and combinatorial geometry are about combinatorial properties of discrete collections of geometrical objects. A long-standing topic in discrete geometry is tiling of the plane.
+
 
 
 
